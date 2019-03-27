@@ -1,0 +1,21 @@
+## intent:user.sad
+- I'm in a [sad](emotion) mood
+- I am [sad](emotion)
+- I'm [grieving](emotion:sad)
+- I am [depressed](emotion)
+- I am feeling [sad](emotion)
+- I am [upset](emotion)
+- I'm [unhappy](emotion)
+- I'm having a bad day
+- I want to cry
+- I'm [not happy](emotion:unhappy)
+- feeling [sad](emotion)
+- I felt [sad](emotion) for no reason
+- Now I'm [sad](emotion)
+- It makes me [sad](emotion)
+- I am [sad](emotion) to hear it
+- I am a very [sad](emotion) person
+- I feel [sad](emotion) every now and then
+- I am as [sad](emotion) and lonely as can be
+- feeling so down
+- i am not in a good mood

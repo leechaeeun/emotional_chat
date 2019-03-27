@@ -1,0 +1,16 @@
+## intent:user.sleepy
+- I am sleepy
+- I want to sleep
+- I'm falling asleep
+- I'm falling asleep on my feet
+- I'm sleeping
+- I am drowsy
+- i will sleep anytime
+- i will doze off
+- I am too sleepy today
+- feeling too sleepy
+- i want to sleep
+- I want to go sleep
+- I want to sleep right now
+- I want to go sleep now
+- I'm sleepy

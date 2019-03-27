@@ -1,0 +1,15 @@
+## intent:user.gossip
+- The politician was corrupt.
+- David is [not a happy](emotion:unhappy) person.
+- The person is not clean.
+- He committed a crime.
+- The clouds were not blocking the sun's rays.
+- I don't like to read science fiction.
+- It was bad.
+- *. lier
+- She is lier.
+- He is lier.
+- That was really horrible.
+- He lied when he opened his mouth.
+- It is not clean.
+- It is dirty.

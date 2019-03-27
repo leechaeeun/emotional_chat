@@ -1,0 +1,26 @@
+## intent:user.bored
+- soo [bored](emotion)
+- that was [boring](emotion:bored)
+- I'm [bored](emotion)
+- [bored](emotion)
+- [boring](emotion:bored)
+- I am getting [bored](emotion)
+- Staying at home is [boring](emotion:bored)
+- very [boring](emotion:bored)
+- it [bores](emotion:bored) me
+- i had a slow day
+- i am very [bored](emotion)
+- Im kinda [bored](emotion) today
+- I've never been more [bored](emotion)
+- I was [bored](emotion)
+- It's [boring](emotion:bored)
+- This is [boring](emotion:bored)
+- We're all [bored](emotion)
+- It's very [boring](emotion:bored)
+- I'm already [bored](emotion)
+- I'm [bored](emotion) out of my mind
+- It was [boring](emotion:bored)
+- It was really [boring](emotion:bored)
+- He was really [boring](emotion:bored)
+- I am [bored](emotion)
+- Today is a slow day

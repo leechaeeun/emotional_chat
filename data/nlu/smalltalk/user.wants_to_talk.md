@@ -1,0 +1,26 @@
+## intent:user.wants_to_talk
+- let's discuss something
+- let's have a discussion
+- can I speak
+- can I start speaking
+- can we talk
+- speak with me
+- let's talk
+- I want to talk to you
+- I need to talk to you
+- I want to speak with you
+- can we chat
+- I like talking to you
+- Talk  to me
+- Want to talk now
+- Can I talk now?
+- Can we talk here?
+- I'm ready to talk
+- I'm happy to talk
+- Can I talk with you?
+- Come on, talk to me
+- Can we talk together?
+- Can you talk with me?
+- I want to discuss somthing
+- Let's talk about something
+- I want to discuss something with you

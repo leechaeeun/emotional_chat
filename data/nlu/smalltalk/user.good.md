@@ -1,0 +1,28 @@
+## intent:user.good
+- I am good
+- I'm doing just great
+- I'm doing fine
+- I'm good
+- I'm doing good
+- I'm great thanks
+- I'm super good
+- I'm feeling great
+- I'm in a good mood
+- I'm doing really good
+- good
+- It's good
+- I feel good
+- That's good
+- That feels good
+- I feel very good
+- i am pretty good
+- I feel good today
+- I am really good
+- soooo good
+- wonderful
+- super good
+- really good
+- It was good
+- It is good
+- It was very good
+- It was really good

@@ -1,0 +1,15 @@
+## intent:user.judgement
+- It is bad act.
+- He did a bad thing.
+- Its condition is not good.
+- Her condition is bad.
+- It is beautiful.
+- It was really wonderful.
+- She is really pretty.
+- He was gentle.
+- It was very delicious.
+- Yesterday the party is excellent.
+- The product is convenient.
+- The work is going in the right direction.
+- What she does is right.
+- The taste is terrible.

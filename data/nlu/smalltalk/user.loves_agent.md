@@ -1,0 +1,19 @@
+## intent:user.loves_agent
+- I [love](emotion) you
+- [love](emotion) you
+- I [adore](emotion:love)  you
+- I am in [love](emotion) with you
+- I [love](emotion) you so much
+- I [love](emotion) you too
+- I think I [love](emotion) you
+- [loving](emotion:love) you
+- you know I [love](emotion) you
+- do you [love](emotion) me ?
+- [Love](emotion) you so much
+- my heart is filled with you
+- I [love](emotion) u to the moon and back
+- I am in deep [love](emotion) with you
+- you r unique
+- I [love](emotion) you, you too?
+- I really [love](emotion) you
+- [Love](emotion) you

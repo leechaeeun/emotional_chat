@@ -1,0 +1,27 @@
+## intent:user.worry
+- I do [worry](emotion).
+- I'm [worried](emotion:worry).
+- I was [worried](emotion:worry).
+- That [worries](emotion:worry) me.
+- I was so [worried](emotion:worry).
+- I [worry](emotion) about you.
+- You had us [worried](emotion:worry).
+- I'm really [worried](emotion:worry).
+- I [worried](emotion:worry) about my school report.
+- The fact that she's sick really [worries](emotion:worry) me.
+- I [worry](emotion) about whether I'll be a good father.
+- I'm [worried](emotion:worry) about the state of Tom's health
+- People were [worried](emotion:worry) about what might happen.
+- I constantly [worry](emotion) about my children.
+- My sister [worries](emotion:worry) excessively about her finances.
+- He is terribly [worried](emotion:worry) about being alone.
+- He began to [worry](emotion) about his health.
+- I [worries](emotion:worry) about my mother.
+- Unemplyment is a real [worry](emotion) for many people.
+- He suffer from financial [worries](emotion:worry).
+- It is a [concern](emotion:worry).
+- I [concern](emotion:worry) about my puppy.
+- She hasn't been seen for four days and there is [concern](emotion:worry) for her safety.
+- The report expressed [concern](emotion:worry) over continuing high unemployment.
+- Her health was giving serious cause for [concern](emotion:worry).
+- In the meeting, voters raised [concerns](emotion:worry) about health care.

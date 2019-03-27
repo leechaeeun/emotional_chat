@@ -1,0 +1,27 @@
+## intent:user.waits
+- I'm waiting
+- still waiting
+- I'll wait
+- I can't wait anymore
+- how long do I have to wait?
+- don't make me wait like this
+- I'm still waiting
+- I'm waiting for you
+- I'm waiting for a long time
+- I'll be waiting for you
+- I'll be waiting
+- done with waiting
+- Should I wait for you here?
+- How long will we have to wait?
+- Don't ever make me wait again
+- I was waiting for a long time
+- I've waited too long for this
+- I couldn't wait another second
+- I've been here waiting for you
+- I am tired of waiting
+- I'm waiting now
+- I will wait for you
+- ok, I will wait
+- I could not wait more
+- waiting now
+- wait for a long time

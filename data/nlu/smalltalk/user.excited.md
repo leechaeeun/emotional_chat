@@ -1,0 +1,26 @@
+## intent:user.excited
+- I am [excited](emotion)
+- I'm really [excited](emotion)
+- how [excited](emotion) I am
+- I'm [thrilled](emotion:excited)
+- I'm [excited](emotion) about working with you
+- I'm [excited](emotion) to start our friendship
+- I'm [thrilled](emotion)
+- I am [thrilled](emotion) to talk to you
+- I'm damn [excited](emotion)
+- I'm [hyped](emotion:excited)
+- I'm very [excited](emotion)
+- I felt [excited](emotion)
+- It was [exciting](emotion:excited)
+- That was [exciting](emotion:excited)
+- I'm really [excited](emotion)
+- How [exciting](emotion:excited)!
+- i'm [excited](emotion) about tomorrow
+- It was very [exciting](emotion:excited)! I'd like to use this feature again
+- I'm pretty [excited](emotion) about it
+- It's fun and [exciting](emotion:excited)
+- It was really [exciting](emotion)
+- I'm really [excited](emotion)
+- It was very [exciting](emotion)
+- I'm really [thrilled](emotion)
+- I was [thrilled](emotion)

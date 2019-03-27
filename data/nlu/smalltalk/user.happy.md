@@ -1,0 +1,24 @@
+## intent:user.happy
+- Feeling [happy](emotion)
+- I am [happy](emotion)
+- I'm [happy](emotion) to see you
+- [happy](emotion)
+- if you're happy then I'm [happy](emotion)
+- I'm [happy](emotion) for you
+- I'm [happy](emotion) to help
+- I'm [happy](emotion) to see you
+- you made me very [happy](emotion)
+- I'm glad to see you
+- I'm [happy](emotion) to talk to you
+- I was the [happiest](emotion:happy) man on earth
+- I'm just really [happy](emotion) right now
+- I'm really [happy](emotion) I ran into you
+- I feel [happiest](emotion:happy) when I'm chatting with u
+- Nobody but you can make me [happy](emotion)
+- Whenever I see you, I feel [happy](emotion)
+- ur smile always makes me [happy](emotion)
+- i feel [happy](emotion)
+- i was so [happy](emotion)
+- I was really [happy](emotion)
+- I feel [happy](emotion) to see you
+- I'm [glad](emotion:happy) to do something

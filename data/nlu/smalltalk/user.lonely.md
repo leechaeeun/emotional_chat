@@ -1,0 +1,26 @@
+## intent:user.lonely
+- I am [lonely](emotion)
+- I'm very [lonely](emotion)
+- I'm so [lonely](emotion)
+- I'm really [lonely](emotion)
+- I am feeling [lonely](emotion)
+- I feel [lonely](emotion)
+- I am a loner
+- I don't have any company
+- I don't have anyone else
+- I'm always alone
+- I'm alone
+- am all alone
+- I live alone
+- I'm all alone
+- I've gotten used to living alone
+- I think I've been living alone too long
+- One of the disadvantages of living alone is that you have no one to talk to
+- I am still alone
+- i lives in this city all alone
+- I am used to living alone
+- I am so [lonely](emotion)
+- [lonely](emotion)
+- so [lonely](emotion)
+- really [lonely](emotion)
+- I feel really [lonely](emotion)

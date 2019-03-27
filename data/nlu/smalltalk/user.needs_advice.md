@@ -1,0 +1,24 @@
+## intent:user.needs_advice
+- what should I do about it
+- any suggestions
+- what do you recommend
+- give me a wise [advice](topic)
+- I need [advice](topic)
+- any [advice](topic)
+- do you have any [advice](topic) for me
+- [advise](topic:advice) me
+- what should I do
+- can I ask for your [advice](topic)
+- can you [advise](topic:advice) me
+- guide me
+- can you give me [advice](topic)
+- can you offer any [advice](topic)
+- give me some [advice](topic) about
+- give me some good [advice](topic)
+- help me with [advice](topic)
+- I could use some [advice](topic)
+- I need an [advice](topic) from you
+- I seek your [advice](topic)
+- what can you recommend
+- what do you suggest
+- what is your [advice](topic)

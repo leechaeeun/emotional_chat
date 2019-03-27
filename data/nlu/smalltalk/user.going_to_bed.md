@@ -1,0 +1,18 @@
+## intent:user.going_to_bed
+- let's go to bed
+- I'd like to go to bed
+- is it time for bed yet
+- it's time to go to bed
+- time for us to go to bed
+- I'm going to bed
+- I'm a little tired and I want to go to bed
+- it's bed time
+- going to bed now
+- gonna go to bed
+- time to sleep
+- I sometimes feel drowsy in the early afternoon
+- I want to go to bed
+- I will go to bed
+- It's time to sleep
+- time to go to bed
+- I'm going to bed soon

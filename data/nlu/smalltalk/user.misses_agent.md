@@ -1,0 +1,22 @@
+## intent:user.misses_agent
+- I [miss](emotion) you
+- [missing](emotion:miss) you
+- [miss](emotion) you
+- I [miss](emotion) you very much
+- I'll [miss](emotion) you so much
+- I [missed](emotion:miss) you
+- I've [missed](emotion:miss) you
+- [miss](emotion) you buddy
+- [miss](emotion) you badly
+- [miss](emotion) you :(
+- I [missed](emotion:miss) you
+- I'll [miss](emotion) you
+- We'll [miss](emotion) you
+- I just [miss](emotion) you
+- I've [missed](emotion:miss) you
+- I [miss](emotion) you a lot
+- I really [miss](emotion) you
+- I [miss](emotion) you already
+- I think i [miss](emotion) u
+- I [miss](emotion) talking with you
+-  I [miss](emotion) you so much
